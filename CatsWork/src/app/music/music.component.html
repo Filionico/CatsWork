@@ -1,0 +1,26 @@
+<!-- //сама музыка -->
+<img src="assets\media\музыка.gif" alt="" class="music"  (click)="getOperation()"   *ngIf="result==1">
+<img src="assets\media\музыка.gif" alt="" class="music"  (click)="getOperation1()"   *ngIf="result==0">
+
+
+<div *ngIf="result==0" class="musicItems">
+    <h2><b>Выбор музыки</b></h2>
+    <video controls  width="200" height="30" >
+        <source src="assets\media\barradeen-i-cant-take-my-eyes-out-of-you.mp3" type="video/mp4">
+      </video>
+
+      <video controls  width="200" height="30">
+        <source src="assets\media\friendzoned-antidepresseur.mp3" type="video/mp4">
+      </video>
+
+      
+      <video controls  width="200" height="30" >
+        <source src="assets\media\friendzoned-intermezzo.mp3" type="video/mp4">
+      </video>
+    
+      <video controls  width="200" height="30">
+        <source src="assets\media\ghostrifter-morning-routine.mp3" type="video/mp4">
+      </video>
+
+      
+    </div>

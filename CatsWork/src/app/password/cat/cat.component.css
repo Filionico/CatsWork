@@ -1,0 +1,121 @@
+.cat1{
+    margin-top:-650px;
+    margin-left:150px;
+    position: absolute;
+    height:180px;
+    width: 180px;
+    z-index: 0;
+  }
+
+  .cat2{
+    margin-top:-400px;
+    margin-left:550px;
+    position: absolute;
+    height:180px;
+    width: 180px;
+    z-index: 0;
+  }
+
+  .cat3{
+    margin-top:-300px;
+    margin-left:150px;
+    position: absolute;
+    height:180px;
+    width: 180px;
+    z-index: 0;
+  }
+
+  .cat4{
+    margin-top:-500px;
+    margin-left:900px;
+    position: absolute;
+    height:180px;
+    width: 180px;
+    z-index: 0;
+  }
+
+  .table1{
+    margin-top:-540px;
+    margin-left:150px;
+    position: absolute;
+    height:150px;
+    width: 150px;
+    z-index: -1;
+  }
+
+  .table2{
+    margin-top:-350px;
+    margin-left:520px;
+    position: absolute;
+    height:220px;
+    width: 250px;
+    z-index: 0;
+  }
+
+  .table3{
+    margin-top:-220px;
+    margin-left:150px;
+    position: absolute;
+    height:180px;
+    width: 180px;
+    z-index: -1;
+  }
+
+  .table4{
+    margin-top:-380px;
+    margin-left:900px;
+    position: absolute;
+    height:180px;
+    width: 180px;
+    z-index: -1;
+  }
+
+
+  .cattext{
+    background-color:rgb(119, 148, 68);
+    font-size: 14px;
+    border-radius: 4px;
+    width:70px;
+    margin-top:-50px;
+    }
+
+
+
+
+
+  /* .stage {
+    border-bottom: 3px solid #444;
+    display: flex;
+    height: 330px;
+    width: 100%;
+}
+.box {
+    align-self: flex-end;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    background-color: #F44336;
+    height: 200px;
+    margin: 0 auto 0 auto;
+    transform-origin: bottom;
+    width: 200px;
+}
+.bounce-2 {
+    animation-name: bounce-2;
+    animation-timing-function: ease;
+}
+@keyframes bounce-2 {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-100px); }
+    100% { transform: translateY(0); }
+} */
+
+
+
+
+
+
+
+
+
+
+
